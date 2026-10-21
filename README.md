@@ -54,7 +54,7 @@ be analysed, and the findings describe market-level patterns only.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/data-science-project.git
+git clone https://github.com/wangmengchen61-cmyk/data-science-project.git
 cd data-science-project
 
 # 2. (Recommended) create a virtual environment
